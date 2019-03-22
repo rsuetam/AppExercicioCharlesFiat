@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AMR</string>
+    <string name="texto_descr">A Fiat é uma marca global da Fiat Chrysler Automobiles (FCA),
+        o sétimo maior fabricante mundial de automóveis. O Grupo tem unidades produtivas em 40 países e
+        presença comercial em aproximadamente 150 países.
+        A FCA é líder em vendas no mercado de automóveis e veículos comerciais leves no Brasil.</string>
+    <string name="title_activity_segunda_tela">Informações</string>
+    <string name="text_info">INSTITUCIONAL \n\n
+        Compromisso com o Brasil, pioneirismo e inovação como características marcantes, produtos de alta qualidade e
+        tecnologia, design admirado, respeito ao consumidor e responsabilidade socioambiental.
+        Esses atributos compõem o perfil da Fiat Automóveis, uma das empresas automobilísticas com maior tradição e
+        reconhecimento no mercado brasileiro.\n
+
+        Instalada em Betim (MG), desde 1976, a Fiat Automóveis tem capacidade produtiva de 800 mil
+        veículos por ano. A empresa está concluindo um importante ciclo de investimentos de R$ 7 bilhões, que
+        modernizou a fábrica de Betim.\n
+
+        A Fiat Automóveis também investe no desenvolvimento de novos produtos,
+        novas tecnologias, qualidade e capacitação da engenharia para executar projetos
+        cada vez mais ousados e inovadores. Tudo em sintonia com os desejos e as aspirações dos clientes.\n
+
+        A Fiat é uma marca global da Fiat Chrysler Automobiles (FCA), o sétimo maior fabricante mundial de
+        automóveis. O Grupo tem unidades produtivas em 40 países e presença comercial em aproximadamente 150 países.
+        A FCA é líder em vendas no mercado de automóveis e veículos comerciais leves no Brasil.</string>
+</resources>
